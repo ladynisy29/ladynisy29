@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Nisy Adjei ACHEAMPONG<br><br>I’m a Master’s student in Artificial Intelligence at Junia ISEN Lille, France, with a strong background in Computer Engineering. I’m passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and Data Analysis.<br><br><br>
+Hi, I’m Nisy Adjei ACHEAMPONG<br><br>I’m a Master’s student in Artificial Intelligence at Junia ISEN Lille, France, with a strong background in Computer Engineering. I’m passionate about building intelligent systems that solve real world problems using Machine Learning, Deep Learning, and Data Analysis.<br><br><br>
 
 
 ## Socials:
